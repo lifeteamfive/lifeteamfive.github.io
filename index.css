@@ -1,0 +1,85 @@
+body {
+    /*background-image: url("background.jpg");
+    */
+}
+h1 {
+    font-family: "Magneto";
+    }
+h2{
+    font-family:"Century Gotchic";
+    color:rgb(123, 192, 224);
+}
+p {
+    font-family: "Century Gothic";
+    font-size: "2em";
+    color: rgb(88, 206, 161);
+    }	
+img {
+    border: 4px solid rgb(123, 192, 224);
+}
+.line {
+    background-color: rgb(255, 153, 153);
+    width: 500px;
+    height: 5px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+#gallery {
+    margin: auto;
+}
+#topborder {
+    background-color: rgb(88, 206, 161);
+    height: 150px;
+    margin-top: 0px;
+    border-bottom: 4px solid rgb(255, 153, 153);
+}
+#logo {
+    margin-top: 20px;
+    margin-left: 10px;
+}
+#middle {
+    margin: auto;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+#bottomborder {
+    background-color: rgb(88, 206, 161);
+    height: 240px;
+    border-top: 4px solid rgb(255, 153, 153);
+}
+#credits {
+    color: white;
+    margin-top: 12px;
+    margin-left: 10px;
+}
+#drone {
+    margin-top: 1px;
+    margin-bottom: 20px;
+}
+#funded {
+    margin-bottom: 1px;
+}
+#annoying2 {
+    height: 259px;
+}
+.images {
+    width: 220px;
+    height: 259px;
+}
+#solarpanel {
+    width: 400px;
+}
+#solarphoto {
+    margin: auto;
+}
+.socialmedia {
+    width: 30px;
+    height: 30px;
+    border: none;
+    margin-left: 10px;
+}
+#contact {
+    color:white;
+    margin-left: 10px;
+}

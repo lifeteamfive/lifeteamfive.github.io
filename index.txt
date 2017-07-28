@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>L.I.F.E.
+	</title>
+
+	<meta name="Author" content="Aviva Kern">
+	<link rel="StyleSheet" type="text/css" href="index.css"/>
+	<link rel="icon" type="image/png" href="logoreal.jpg">
+	<script></script>
+</head>
+
+<body>
+	<div id="topborder">
+	<img id="logo" src="logolong.png">
+	</div>
+	<div id="middle">
+	<h2>About Us</h2>
+	<p id="description">For years, our oceans have been disregarded and sorely mistreated.  
+	Our company aims to bring life back to the oceans by implimenting our solar powered
+	machines that will collect the plastic that has been polluting our oceans for so long.
+	Wih your help, we can reinvigorate our oceans and make the future a better place. </p>
+	<div id="solarphoto"> <img id="solarpanel" src="pic1.jpg"> </div>
+	<div class="line"> </div>
+	<h2>Our Purpose</h2>
+	<p>Lorem ipsum dolor sit amet, has et stet indoctum. Quaestio dissentias eos in, ei minim sententiae temporibus nec. Sit esse hendrerit ei, dico mazim constituam eu per, qui suas fabulas fierent no. Legendos recteque intellegat ea nec, lorem mundi laoreet mea id.
+	</p>
+	<p>Causae consetetur ad ius. Docendi expetenda ne quo. Ex sed laudem verear aliquam, vis no suas numquam eloquentiam, no perpetua persecuti eam. Nam eros error at, at mei alienum persequeris. Has ea elitr utinam omnium.
+	</p>
+	<div id="gallery">
+    <img class="images" src="pic2.jpg" style="float: left; width: 30%; margin-right: 1%; margin-left: 3.4%; margin-bottom: 0.5em;"><img class="images" src="pic3.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img class="images" id="annoying" src="pic4.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><p style="clear: both;">
+	</div>
+	<div class="line"></div>
+	<h2>The Problem</h2>
+	<p>Lorem ipsum dolor sit amet, has et stet indoctum. Quaestio dissentias eos in, ei minim sententiae temporibus nec. Sit esse hendrerit ei, dico mazim constituam eu per, qui suas fabulas fierent no. Legendos recteque intellegat ea nec, lorem mundi laoreet mea id.</p>
+	<div class="line"> </div>
+	<h2>Our Product </h2>
+	<p>Lorem ipsum dolor sit amet, has et stet indoctum. Quaestio dissentias eos in, ei minim sententiae temporibus nec. Sit esse hendrerit ei, dico mazim constituam eu per, qui suas fabulas fierent no. Legendos recteque intellegat ea nec, lorem mundi laoreet mea id. </p>
+	<p>Causae consetetur ad ius. Docendi expetenda ne quo. Ex sed laudem verear aliquam, vis no suas numquam eloquentiam, no perpetua persecuti eam. Nam eros error at, at mei alienum persequeris. Has ea elitr utinam omnium. </p>
+	<div class="line"></div>
+	<h2>What We Do </h2>
+	<p>Lorem ipsum dolor sit amet, has et stet indoctum. Quaestio dissentias eos in, ei minim sententiae temporibus nec. Sit esse hendrerit ei, dico mazim constituam eu per, qui suas fabulas fierent no. Legendos recteque intellegat ea nec, lorem mundi laoreet mea id.</p>
+	<img class="images" src="pic5.jpg" style="float: left; width: 30%; margin-right: 1%; margin-left: 3.4%; margin-bottom: 0.5em;"><img class="images" id="annoying2" src="pic6.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img class="images" src="pic7.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><p style="clear: both;">
+	<div class="line"></div>
+	<h2>Funded By </h2>
+	<p id="funded">See our work with Meals on Drones <a href="https://www.bing.com/images/search?view=detailV2&ccid=l557iecp&id=996C203FA2EA16CFACC5EBBEDB13E0670F1783FF&thid=OIP.l557iecpqBMnOZNl_o1qjAEsDj&q=meals+on+drones&simid=608024953913672934&selectedIndex=3&ajaxhist=0" target="_blank"A>here</a><br><br> </p>
+	<img id="drone" src="dronelogo.png">
+	</div>
+	<div id="bottomborder">
+		<p id="credits">L.I.F.E. Corp. <br>
+			Copyright 2017 <br>
+			K.R.M.C.G.U.C.F Industries
+		</p>
+		<p id="contact">Contact Us at: <br>
+			lifeteamfive@gmail.com<br>
+			or<br>
+			(123) 456-6789
+		</p>
+		<a href="https://www.pinterest.com/lifeteamfive/" target="_blank"><img class="socialmedia" src="pinlogo.png"></a>
+		<a href="https://www.instagram.com/lifeteamfive/" target="_blank"><img class="socialmedia" src="instagram.png"></a>
+		<a href="https://www.facebook.com/LIFE-131920030739584/" target="_blank"><img class="socialmedia" src="facebook.png"></a>
+		<a href="https://twitter.com/lifeteamfive" target="_blank"><img class="socialmedia" src="twitter.png"></a>
+	</div>
+</body>
+</html>
